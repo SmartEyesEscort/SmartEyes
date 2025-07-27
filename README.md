@@ -1,4 +1,4 @@
-# Unscented Kalman Filter for Highway
+# Unscented Kalman Filter for channel
 
 ## 1. Overview
 This project implements an Unscented Kalman Filter to estimate the state of multiple cars on a highway using noisy *lidar* and *radar* measurements. We'll then evaluate the quality of our filter using RMSE values.
